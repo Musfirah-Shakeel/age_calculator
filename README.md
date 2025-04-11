@@ -24,3 +24,6 @@ A simple Python program that calculates the age of a user based on their birth y
 
 ## License
 This project is open-source and available.
+## Author
+Musfirah Shakeel
+[https://github.com/Musfirah-Shakeel]
